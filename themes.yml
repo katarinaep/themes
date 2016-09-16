@@ -1,6 +1,13 @@
 ###############################
 #  Jekyll Themes
-
+- title:        Grayscale
+  home_url:     https://github.com/BlackrockDigital/startbootstrap-grayscale
+  download_url: https://github.com/BlackrockDigital/startbootstrap-grayscale/archive/gh-pages.zip
+  demo_url:     https://blackrockdigital.github.io/startbootstrap-grayscale/
+  author:       Jerome Lachaud
+  thumbnail:    https://drjekyllthemes.github.io/_data/themes/thumbnails/grayscale.jpg
+  license:      Apache
+  
 - title:     Libretto
   github:    ferrolho/jekyll-theme-libretto
   branch:    gh-pages              # note: defaults to master
